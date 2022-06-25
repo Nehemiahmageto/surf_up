@@ -1,5 +1,4 @@
 # surfs_up
-# surfs_up
 # Overview of the Analysis
 The purpose of the analysis is to find the trend of Temperature in Oahu, Hawaii for the months of June and Decemeber. The information is to be used by an investor, W. Avy in the determination of setting up a business for ice cream. The analysis is to determine how suitable the business would be all  year round
 # Results
